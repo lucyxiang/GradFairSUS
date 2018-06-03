@@ -6,8 +6,25 @@
     background-color: #e7e8e6!important;
 }
 
+.gf-books{
+    background-image: url("../books.jpeg");
+    background-repeat:no-repeat;
+    background-position: center center;
+    height:400px;
+}
+.gf-ballroom{
+    background-image: url("../ballroom.jpg");
+}
+.black{
+    color: black;
+}
 .gf-grey-color{
     color:#3c3c3c;
 }
-
+.gf-picture-text{
+    padding: 50px 0;
+}
+td{
+    font-size:  0.9rem;
+}
 
